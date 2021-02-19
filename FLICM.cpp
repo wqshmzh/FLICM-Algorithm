@@ -1,7 +1,7 @@
-// This is a C++ implementation of FLICM algorithm, which is introduced in paper "A Robust Fuzzy Information C-Means Clustering Algorithm"
+// This is a C++ implementation of FLICM algorithm, which is introduced in paper "A Robust Fuzzy Local Information C-Means Clustering Algorithm"
 // Author: Qingsheng Wang
 // Date: Feb. 19 2021
-// Jinan, Shandong Province, China
+// Place: Jinan, China
 // OpenCV v3+ used for image reading and displaying is required in this code.
 
 #include <opencv2\opencv.hpp>
