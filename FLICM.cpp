@@ -11,7 +11,7 @@ using namespace cv;
 using namespace std;
 int main()
 {
-	Mat input = imread("THIS IS AN IMAGE", 0);
+	Mat input = imread("test1_noise.tif", 0);
 	const int rows = input.rows;
 	const int cols = input.cols;
 	namedWindow("Input");
